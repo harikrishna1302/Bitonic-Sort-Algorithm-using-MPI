@@ -26,3 +26,5 @@ d= 〖𝑙𝑜𝑔〗_2 P;
                 end for
                 end for
 ```
+## Results
+![untitled](https://cloud.githubusercontent.com/assets/18632383/23101306/838905d8-f65e-11e6-9d76-0030237b7c87.png)
